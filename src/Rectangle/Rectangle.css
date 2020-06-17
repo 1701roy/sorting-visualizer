@@ -1,0 +1,6 @@
+.Rectangle{
+    border: 1px solid #000;
+    width: 25px;
+    background-color: darkgreen;
+    display: inline-block;
+}

@@ -1,0 +1,19 @@
+.NavigationBar{
+    background-color: rgba(0, 0, 0, 0.808);
+    width: 100%;
+    height: 50px;
+    text-align: left;
+}
+.ele
+{
+    display: inline-block;
+    margin: 0 10px;
+    color: #fff;
+}
+
+.buttton
+{
+    color: #000;
+    cursor: pointer;
+    margin: 5px;
+}
